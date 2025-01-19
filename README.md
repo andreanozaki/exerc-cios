@@ -1,2 +1,2 @@
-# exerc-cios
-# exerc-cios
+# exercicios
+
